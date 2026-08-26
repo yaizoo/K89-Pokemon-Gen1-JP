@@ -177,6 +177,16 @@ Gen1Recompと、ユーザー自身が用意した対応Pokémon ROMが必要で�
 - 再現手順
 - 使用しているGen1Recompのバージョン
 
+## 関連プロジェクト
+
+### K89 Pokémon Gen2 JP
+
+Pokémon Gold向けGeneration II日本語化MOD：
+
+https://github.com/yaizoo/K89-Pokemon-Gen2-JP
+
+現在はPokémon Goldに対応しています。Pokémon Silver / Crystalにはまだ対応していません。
+
 ## 開発支援
 
 K89 Pokémon Gen1 JPは無料で公開しています。
