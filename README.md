@@ -6,6 +6,14 @@ Gen1Recomp版『Pokémon Red / Blue』を、オリジナル日本版の雰囲気
 
 単純な機械翻訳ではなく、原作日本版の文章・名称・表示形式を基準に実装しています。
 
+## K89 / 記憶倉庫について
+
+このプロジェクトは、日本を拠点にゲーム保存・ローカライズ、物理メディア研究、アーカイブ活動を行う **K89 / 記憶倉庫** の公開プロジェクトです。
+
+- Website: https://k89.jp/
+- Project archive: https://k89.jp/en/projects/gen1recomp/
+- X: https://x.com/K89_jp
+
 ## 対応ゲーム
 
 - Pokémon Red
